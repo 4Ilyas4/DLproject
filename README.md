@@ -24,7 +24,3 @@ Technical Metrics
 * Autoencoder training reduced loss to approximately 0.64.
 * Semantic matching achieved a cosine similarity of 0.80.
 * Vector dimensions for search embeddings are set to 512.
-
-
-
-Would you like me to create a simple installation guide for the FastAPI backend?
